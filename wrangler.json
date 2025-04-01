@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "scraper-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "11796096-414b-4dd8-98b5-4fe7e77308ef",
+      "database_name": "snowy-poetry-0c59-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
